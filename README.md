@@ -37,6 +37,8 @@ Making a pull request. Once you've pushed changes to
 your local repository, you can issue a pull request
 by clicking on the pull request icon.
 
+* You can find the link to my project [here](https://bit.ly/2B5M1oc)
+
 # License
 
 The contents of this repository are covered under the MIT License
